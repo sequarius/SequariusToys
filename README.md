@@ -1,7 +1,7 @@
 # SequariusToys
 Some toys created when i was young or make for fun
 ### Toy List
-#### [EnviromentEditor](https://github.com/sequarius/SequariusToys/tree/master/EnviromentEditor)
+#### [EnvironmentEditor](https://github.com/sequarius/SequariusToys/tree/master/EnviromentEditor)
 This is a simple tool to help you with edit system environment values.
 ### License
 The MIT License (MIT)
