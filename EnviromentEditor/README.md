@@ -11,4 +11,4 @@ In recent Windows release contain new enviroment value editor is same like this 
 >make //use g++
 ```
 ### Some bacle
-![import values](/SequariusToys/common_resource/images/img_environment_editor_import.png)
+![import values](https://github.com/sequarius/SequariusToys/blob/master/common_resource/images/img_environment_editor_import.png)
