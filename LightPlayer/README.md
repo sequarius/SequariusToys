@@ -2,11 +2,11 @@
 
 This project was build in 2013,in,in fact,this is a ancient toy compiling with Eclipse ADT.So you need Eclipes and compile environment.
 ### function includes： 
-Decoding common music file
-Playing on back service
-Lyrics display
-Scan for the music file on device
-etc.
+#### Decoding common music file
+#### Playing on back service
+#### Lyrics display
+#### Scan for the music file on device
+#### etc.
 
 ## Build
 ```
