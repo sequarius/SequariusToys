@@ -1,8 +1,11 @@
 # SequariusToys
-Some toys created when i was young or make for fun
-### Toy List
+Some toys created when I was young or make for fun.
+### Toys List
 #### [EnvironmentEditor](https://github.com/sequarius/SequariusToys/tree/master/EnviromentEditor)
 This is a simple tool to help you with edit system environment values.
+#### [LightPlayer](https://github.com/sequarius/SequariusToys/tree/master/LightPlayer)
+This is a simple clean music player on Android platform.
+
 ### License
 The MIT License (MIT)
 
