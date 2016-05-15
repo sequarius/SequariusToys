@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/meue_action_search"
+        android:icon="@drawable/abs__ic_search"
+        android:showAsAction="always"
+        android:title="搜索音乐"/>
+    <item
+        android:id="@+id/meue_action_add"
+        android:icon="@drawable/operlay_icn_add_l"
+        android:showAsAction="always"
+        android:title="添加音乐"/>
+    <item
+        android:id="@+id/meue_action_setting"
+        android:icon="@drawable/actionbar_set"
+        android:showAsAction="never"
+        android:title="设置"/>
+    <item
+        android:id="@+id/meue_action_loopmode"
+        android:icon="@drawable/actionbar_set"
+        android:showAsAction="never"
+        android:title="循环模式"/>
+    <item
+        android:id="@+id/meue_action_playformnet"
+        android:icon="@drawable/actionbar_set"
+        android:showAsAction="never"
+        android:title="播放网络歌曲"/>
+
+</menu>
