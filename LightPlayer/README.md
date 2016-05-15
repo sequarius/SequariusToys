@@ -1,7 +1,6 @@
 ## This is a simple clean music player on Android platform. 
-
 This project was build in 2013,in,in fact,this is a ancient toy compiling with Eclipse ADT.So you need Eclipes and compile environment.
-## function includes： 
+## function includes：
 #### Decoding common music file
 #### Playing on back service
 #### Lyrics display
