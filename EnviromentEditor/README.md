@@ -15,7 +15,7 @@ In recent Windows release contain new environment value editor is same like this
 ![export_values](https://github.com/sequarius/SequariusToys/blob/master/common_resource/images/img_environment_editor_import.png)
 ![import_values](https://github.com/sequarius/SequariusToys/blob/master/common_resource/images/img_environment_editor_main_import.png)
 ![edit_path_value](https://github.com/sequarius/SequariusToys/blob/master/common_resource/images/img_environment_editor_path_edit.png)
-### License
+## License
 The MIT License (MIT)
 
 Copyright (c) 2016 Sequarius
