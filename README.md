@@ -12,7 +12,7 @@ This is a simple clean music player on Android platform.
 
 -2013
 
-#### [LightPlayer](https://github.com/sequarius/SequariusToys/tree/master/MicroBlog)
+#### [MicroBlog](https://github.com/sequarius/SequariusToys/tree/master/MicroBlog)
 This is a simple sample which used Spring Web MVC/Hibernate/BootStrap.
 
 
