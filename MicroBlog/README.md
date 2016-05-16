@@ -7,7 +7,7 @@ this toy include some modern web technics,you may found a better way to create J
 ```
 ## Some Summary of This Toy
 ![](https://github.com/sequarius/SequariusToys/blob/master/common_resource/images/image_micro_blog_index_un_signed.png)
-![](https://github.com/sequarius/SequariusToys/blob/master/common_resource/images/image_micro_blog_index.png.png)
+![](https://github.com/sequarius/SequariusToys/blob/master/common_resource/images/image_micro_blog_index.png)
 ![](https://github.com/sequarius/SequariusToys/blob/master/common_resource/images/image_micro_blog_sign_up.png)
 ![](https://github.com/sequarius/SequariusToys/blob/master/common_resource/images/image_micro_blog_sign_in.png)
 ![](https://github.com/sequarius/SequariusToys/blob/master/common_resource/images/image_micro_blog_user_page.png)
