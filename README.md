@@ -17,6 +17,11 @@ This is a simple sample which used Spring Web MVC/Hibernate/BootStrap.
 
 
 -2014
+#### [AAOClient](https://github.com/sequarius/SequariusToys/tree/master/AAOClient)
+This is a simple tool for connecting to AAO site of my college base on Spring Boot
+
+
+-2014
 ### License
 The MIT License (MIT)
 
