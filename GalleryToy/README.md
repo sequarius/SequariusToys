@@ -9,8 +9,7 @@ This toy also shows the sample how to display local image files by facebook/fres
 >./gradlew
 ```
 ## Demo
-
-
+![](https://github.com/sequarius/SequariusToys/blob/master/GalleryToy/demo.gif)
 ## License
 The MIT License (MIT)
 
