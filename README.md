@@ -22,7 +22,7 @@ This is a simple tool for connecting to AAO site of my college base on Spring Bo
 
 
 -2015
-#### [GalleryToy/](https://github.com/sequarius/SequariusToys/tree/master/GalleryToy)
+#### [GalleryToy](https://github.com/sequarius/SequariusToys/tree/master/GalleryToy)
 This is a simple gallery on Android device implement without ContentProvider.
 
 -2016
