@@ -7,7 +7,7 @@ In recent Windows release contain new environment value editor is same like this
 >cd ${project_directory}
 >qmake –project
 >qmake
->nmake //use vc++
+>nmake //use msvc
 >make //use g++
 ```
 ## Some Summary of This Toy
